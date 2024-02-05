@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Wed Jan 24 22:42:33 IST 2024","Wed Jan 24 22:42:33 IST 2024","2","Default Suite","VWOLoginAutomationSeleniumTestNG","org.example.TestVWOLogin","org.example.TestVWOLogin","setUp","setUp",""
+"passed","Tue Feb 06 01:02:39 IST 2024","Tue Feb 06 01:03:10 IST 2024","31184","All Test Suite","TestVWOLogin","org.example.TestVWOLogin","org.example.TestVWOLogin","testValidLogin","testValidLogin","Verify that with Valid username and Valid password, Login is successfull !!"
+"broken","Wed Jan 24 23:32:52 IST 2024","Wed Jan 24 23:32:52 IST 2024","1","Default Suite","VWOLoginAutomationSeleniumTestNG","org.example.TestVWOLogin","org.example.TestVWOLogin","tearDown","tearDown",""
+"passed","Tue Feb 06 01:02:32 IST 2024","Tue Feb 06 01:02:37 IST 2024","4926","All Test Suite","TestVWOLogin","org.example.TestVWOLogin","org.example.TestVWOLogin","testInvalidLogin","testInvalidLogin","TC#1 - Verify that with Invalid username and Valid password, Login is not successfull !!"
