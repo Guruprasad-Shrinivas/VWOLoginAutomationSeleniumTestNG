@@ -136,7 +136,7 @@ public class TestVWOLogin {
     @AfterSuite
     public void tearDown() {
 
-        //driver.quit();
+        driver.quit();
     }
 
 
