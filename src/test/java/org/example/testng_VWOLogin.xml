@@ -3,9 +3,9 @@
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true"
           name="TestVWOLogin">
-<classes>
-    <class name="org.example.TestVWOLogin"></class>
-</classes>
-        
+        <classes>
+            <class name="org.example.TestVWOLogin"></class>
+        </classes>
+
     </test>
 </suite>
